@@ -13,4 +13,4 @@ Courts have rejected copyright in identifier-like strings produced by a rigid sy
 That reasoning maps well onto cryptographic key material.
 cit: https://law.justia.com/cases/federal/appellate-courts/F3/390/276/506642/ (https://web.archive.org/web/20251212035153/https://law.justia.com/cases/federal/appellate-courts/F3/390/276/506642/)
 
-Because this does not offer aditional metadata or documentation it is not subject to copyright/DMCA.
+Because this does not offer additional metadata or documentation it is not subject to copyright/DMCA.

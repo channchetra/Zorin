@@ -287,7 +287,7 @@ echo "Done adding ZorinOS's Public gpg keys..."
 echo ""
 
 echo ""
-echo "Now making and creating & installing dummy debs to satify dependencies for zorin-os-premium-keyring (if needed)..."
+echo "Now making and creating & installing dummy debs to satisfy dependencies for zorin-os-premium-keyring (if needed)..."
 echo ""
 
 if dpkg -s "zorin-os-premium-keyring" >/dev/null 2>&1; then
